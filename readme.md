@@ -41,4 +41,5 @@ The AI Technical Interviewer is a next-generation solution for conducting initia
 ### Installation
 1. Clone the repository:  
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/sundramsingh1501/Talent_Scout-Assignment>
+
